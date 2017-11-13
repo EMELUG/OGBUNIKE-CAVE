@@ -1,0 +1,203 @@
+@charset "UTF-8"
+/*<--CSS Document-->*/
+
+
+
+
+/* CHANGE LINK COLOR ON HOVER*/
+li a.hover{
+	background-color:#6118DA;
+	color:white;
+}
+.active{
+	background-color:#4CAF50;
+	color:white;
+}
+
+
+.Header{
+	float:right;
+	margin-left:0px;
+	margin-right:2px;
+	text-align:center;
+	display:block;
+	color:white;
+	position:fixed;
+	background-color:black;
+}
+
+
+ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	border:0px solid#555;
+}
+li a{
+	display:block;
+	width:80px;
+	background-color:red;
+}
+
+a{
+	display:block;
+	padding:10px;
+	background-color:#dddddd;
+}
+
+
+li{
+	float:left;
+	display:inline;
+	text-align:center;
+	border-bottom:none;
+}
+
+
+/* home page code jumbotron PAGE NO 1*/
+.jumbotron{
+     
+	display:block;
+	 margin-top:10px;
+	 margin-bottom:10px;
+	 background-color:#0000A0;
+	 
+}
+
+
+/*ABOUT OGBUNIKE HISTORY PAGE NO 2*/
+
+
+#div1{
+	margin-top:40px;
+	float:left;
+	display:block;
+	 background-color:red;
+	 width:48%;
+	 height:48%;
+} 
+#div2{
+	margin-top:7px;
+	float:right;
+    display:block;
+	 margin-top:2px;
+	 background-color:#0000A0;
+	 width:48%;
+	 height:48%;
+} 	
+	#div3{
+	margin-top:2px;
+	float:left;
+     display:block;
+	 background-color:green;
+	 width:48%;
+	 height:48%;
+}
+   #div4{
+	 margin-top:2px;
+	float:right;
+	display:block;
+	background-color:#07d23d;
+	width:48%;
+	height:48%;
+}
+	
+	
+	
+	
+	/*CULTURE OGBUNIKE PAGE 3 CODE WITH 2 COLUM*/
+
+
+.A1{
+	
+	float:;
+	display:inline-block;
+	margin-top:100px;
+	 background-color:#0000A0;
+	 width:45%;
+	 height:50%;
+	 color:green;
+}
+
+.B1{
+	float:;
+    display:inline-block;
+	 margin-top:100px;
+	 background-color:;
+	 width:45%;
+	 height:50%;
+	 color:green;
+} 	/* end of page 3 ogbunike culture*/
+
+
+
+/*PAGE 4 EVENTS IN OGBUNIKE WITH 3 COLUM*/
+
+.A{
+	margin-top:92px;
+	display:inline-block;
+	 background-color:#a5ae07;
+	 width:49%;
+	 height:40%;
+	 border:1px solid gray;
+} 
+.B{
+	margin-left:7px;
+	margin-top:1px;
+	display:inline-block;
+	 background-color:#a5ae07;
+	 width:49%;
+	 height:49%;
+	 margin-bottom:10px;
+	 border:1px solid gray;
+} 	
+.C{
+		
+	    border:1px solid gray;
+        display:block;
+	    margin-top:1px;
+	    background-color:#a5ae07;
+	    width:99%;
+	    height:60%;
+}/* END OF PAGE 4 EVENTS IN OGBUNIKE WITH 3 COLUM*/
+	
+
+
+
+
+/*PAGE 5 LOCATION OF OGBUNIKE WITH 1 COLUM
+SAME AS 1
+ */
+
+AB1{
+	position:fixed;
+	width:100%;
+	 height:100%;
+	display:block;
+	border:2px solid gray;  
+	background-color:#6D127A;
+	margin-bottom:10px;
+}
+
+
+
+	
+	
+.container{
+	margin-top:;
+	background-color:#A10086 ;
+	width:100%;
+	height:100%;
+	background:yellow;
+}
+
+#Footer{
+	
+	position:fixed;
+	text-align:center;
+	display:block;
+	color:white;
+	position:bottom;
+	background-color:black;
+	margin-bottom:10px;
+	}
