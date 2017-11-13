@@ -1,0 +1,275 @@
+
+
+
+
+ul{
+list-stly-type:none;
+margin-right:;
+margin:0;
+padding:0;
+background-color:green;
+boder:1px solid #555;
+
+}
+
+li a {
+display:block;
+width:60px;
+height:40px;
+background-color:#dddddd;
+text-align:center;
+border-bottom:none;
+}
+
+li:last-child{
+border-bottom:none;
+}
+li{
+display:inline;
+float:left;
+}
+a{
+display:block;
+padding:8px;
+background-color:#dddddd;
+}
+
+
+
+/*change the link color on hover*/
+
+li a:hover{
+background-color:#555;
+color:white;
+}
+.active{
+background-color:#4CAF50;
+color:white;
+}
+.active,.A,.H,.C,.T{
+	position:;
+ border:2px solid white;
+
+}
+
+
+
+
+
+
+
+
+/* changes*/
+#content
+	{ 
+	    width: 800px;
+		height:600px;
+		overflow: hidden;
+		padding: 2em 0 1em;
+	}
+	
+	
+	#div1A{
+		
+		display:inline-block;
+		float: ;
+		margin-bottom: 1em;
+		margin-left: 3%;
+		width: 60px;
+	    height:80px;
+	    background-color:black;
+	    border:2px solid gray;  
+		font-family:cambria, "Hoefler Text","Liberation", Times,"Times New Roman", serif;
+     
+        color:white;
+	}
+	
+	#div2A{
+		
+		display:inline-block;
+		float: ;
+		margin-bottom: 1em;
+		margin-left: 3%;
+		width: 18%;
+		
+	    height:18%;
+	    background-color:black;
+	    border:2px solid gray; 
+        font-family:cambria, "Hoefler Text","Liberation", Times,"Times New Roman", serif;
+        color:white;		
+	}
+	
+
+	#div3A{
+		display:block;
+		float: ;
+		margin-bottom: 1em;
+		margin-left: 3%;
+		width: 18%;
+		
+	    height:18%px;
+	    
+	    background-color:black;
+	    border:2px solid gray;  
+        font-family:cambria, "Hoefler Text","Liberation", Times,"Times New Roman", serif;
+        color:white;		
+	}
+	
+
+	#div4A{
+		display:inline-block;
+		float: ;
+		margin-bottom: 1em;
+		margin-left: 3%;
+		width:18%;
+	    height:18%;
+	    
+	background-color:black;
+	    border:2px solid gray;  
+        font-family:cambria, "Hoefler Text","Liberation", Times,"Times New Roman", serif;
+        color:white;		
+	}
+	
+	#div5A{
+	   display:inline-block;
+		float: ;
+		margin-bottom: 1em;
+		margin-left: 3%;
+		width: 18%;
+	    height:18%;
+	    
+	   background-color:black;
+	    border:2px solid gray; 
+        font-family:cambria, "Hoefler Text","Liberation", Times,"Times New Roman", serif;
+        color:white;		
+	}
+	
+	
+	.div6A{
+		float: left;
+		margin-bottom: 1em;
+		margin-left: 3%;
+		width: 18%;
+	
+	    height:18%;
+	    
+	    border:2px solid black;  
+	}
+	
+	
+	
+	.div7A{
+		float: left;
+		margin-bottom: 1em;
+		margin-left: 3%;
+		width: 18%;
+		
+	    height:18%;
+	    
+	    border:2px solid black;  
+	}
+	
+	
+	
+	
+	
+	.div8A{
+		float: right;
+		margin-bottom: 1em;
+		margin-left: 30%;
+		margin-right: 30%;
+		width: 18%;
+		
+	    height:18%;
+	  
+	    border:2px solid black;  
+	}
+	
+	
+	
+	
+	
+	
+	
+
+
+.rubio{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+    width:auto;
+	
+	}
+
+
+
+
+
+
+
+}
+.obama{
+	display:block;
+	margin-left:auto;
+    margin-right:auto;
+    width:220px;
+    height:300px;
+	}
+
+}
+.kidnap{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+    width:220px;
+	}
+
+	
+}
+.colverfield{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+    width:220px;
+	}
+
+
+.ice{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+    width:220px;
+	}
+
+}
+.sudan{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+    width:220px;
+	}
+
+
+
+#div7{
+	float:left;
+	width:220px;
+	height:300px;
+	background-color:#951c55;
+	border:3px dashed black;
+}
+.aide{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:220px;
+	}
+;
+}
+.cholesterol{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:220px;
+	}
+

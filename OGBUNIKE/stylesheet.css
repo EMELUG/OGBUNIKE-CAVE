@@ -1,0 +1,82 @@
+@charset "UTF-8"
+/*<--CSS Document-->*/
+
+
+
+
+.jumbotron{
+	
+	 margin-top:12px;
+	 background-color:#2B1B17 ;
+}
+
+
+.jumbotron{
+     
+	display:block;
+	 margin-top:12px;
+	 background-color:#0000A0;
+	 
+}
+.A{
+	
+	display:inline-block;
+	margin-top:12px;
+	 background-color:#0000A0;
+	 width:366px;
+	 height:300px;
+} 
+.B{
+	
+    display:inline-block;
+	 margin-top:12px;
+	 background-color:#0000A0;
+	 width:366px;
+	 height:300px;
+} 	
+	.C{
+	
+     display:inline-block;
+	 margin-top:12px;
+	 background-color:#0000A0;
+	 width:366px;
+	 height:300px;
+}
+	
+#AA{
+	
+	background-color:#992F06;
+}
+
+
+.A1{
+	float:left;
+	display:block;
+	margin-top:12px;
+	 background-color:#0000A0;
+	 width:520px;
+	 height:300px;
+}
+#AB{
+	display:block;
+	 border:2px solid gray;  
+	background-color:#6D127A;
+	margin-bottom:;
+}
+.B1{
+	float:right;
+    display:block;
+	 margin-top:12px;
+	 background-color:#0000A0;
+	 width:520px;
+	 height:300px;
+} 	
+
+
+	
+
+.container{
+	margin-top:12px;
+	 background-color:#A10086 ;
+	
+}
